@@ -1,0 +1,1 @@
+PineRE Maintenance v0.04 - Spec Sheet: 720x720 LVGL, Black/White/Pine Green theme.

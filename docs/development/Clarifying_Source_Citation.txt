@@ -1,0 +1,3 @@
+Project Source Tracking: PineRE
+Purpose: This file acts as an internal register of design decisions and sources used throughout the development of PineRE Maintenance.
+Status: Active

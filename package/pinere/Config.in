@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PINERE
+    bool "pinere"
+    depends on BR2_PACKAGE_LVGL
+    help
+      PineRE Maintenance and Recovery Interface Environment Component.
+      Custom lightweight terminal-aesthetic safety appliance menu block.

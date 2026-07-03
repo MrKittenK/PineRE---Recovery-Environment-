@@ -1,0 +1,18 @@
+PineRE Maintenance v0.04
+
+--------------------------------------------
+► Boot Manager
+  Repair Installation
+  File Manager
+  Remote Access
+  Diagnostics
+  Developer Tools
+  Terminal
+--------------------------------------------
+[ ↑ ↓ ] Navigate        [ A ] Choose
+[ L1 ] Help          [ START ] Reboot
+
+Theme:
+Black background, White text, Pine green highlights, Grey separators.
+Design: 720x720 resolution (LVGL GUI).
+Text size: Small/scaled for high resolution display.

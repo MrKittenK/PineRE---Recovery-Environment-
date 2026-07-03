@@ -1,0 +1,48 @@
+# ==============================================================================
+# PineRE Maintenance Mode — Central Asset Registry v0.04
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# PAGE 1: MAIN ROOT MENU
+# ------------------------------------------------------------------------------
+[main_boot.label]
+🟢 Boot
+[main_boot.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_boot.help]
+Access target systems. Allows immediate booting into EmulationStation, XFCE desktop environments, or loading configurations. Safe for general use.
+
+[main_repair.label]
+🟡 Repair
+[main_repair.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_repair.help]
+System recovery utilities. Run storage filesystem checks, restore damaged boot configs, or re-extract core desktop binaries directly from local archives.
+
+[main_storage.label]
+🔵 Storage
+[main_storage.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_storage.help]
+Manage internal and external block storage devices. Mount USB media, back up vital game saves, or export logs for system diagnostics.
+
+[main_connect.label]
+🟣 Connectivity
+[main_connect.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_connect.help]
+Network and data connection services. Toggle secure remote access daemons (SSH, SFTP) to interact with the device over USB gadgets or Wi-Fi.
+
+[main_system.label]
+🟠 System
+[main_system.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_system.help]
+Hardware telemetry and validation. View real-time component health, system specifications, battery profiles, and access input validation testing suites.
+
+[main_dev.label]
+⚪ Developer
+[main_dev.footer]
+[ ↑ ↓ ] Navigate      [ A ] Choose      [ START ] Reboot
+[main_dev.help]
+Advanced engineering shell tools. Access local system command lines, track specific kernel log streams, or toggle sandbox development configurations.
